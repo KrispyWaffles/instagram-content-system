@@ -1,0 +1,1 @@
+# n8n Connection Test  This file confirms that n8n successfully connected to GitHub.  Created by workflow test.
